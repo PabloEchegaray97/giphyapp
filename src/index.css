@@ -1,0 +1,5 @@
+.giflist-container {
+    display: grid;
+    grid-template-columns: repeat(3,.6fr);
+    gap: 2vh;
+}
